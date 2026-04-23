@@ -22,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&amp;animate=true&amp;type=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animate=true&type=pacman
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
