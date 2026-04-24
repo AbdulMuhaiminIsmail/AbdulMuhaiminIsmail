@@ -2,7 +2,7 @@
 
 ---
 
-2+ years building production-grade AI systems used by real clients every day. I build Voice Agents, AI Chatbots, and Multi-Agent Systems that automate workflows, reduce costs, and solve real business problems. From intelligent automation pipelines to fully custom backends built from scratch, I deliver solutions that create measurable impact. I don’t just build prototypes — I ship systems that drive results.
+1.5+ years building production-grade AI systems used by real clients every day. I build Voice Agents, AI Chatbots, and Multi-Agent Systems that automate workflows, reduce costs, and solve real business problems. From intelligent automation pipelines to fully custom backends built from scratch, I deliver solutions that create measurable impact. I don’t just build prototypes — I ship systems that drive results.
 
 ---
 
@@ -123,3 +123,4 @@ Chess &nbsp;&nbsp;·&nbsp;&nbsp; CTFs &nbsp;&nbsp;·&nbsp;&nbsp; History &nbsp;&
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:abdulmuhaiminismail19@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/923174438615)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/muha9m9n/)
+[![Cal](https://img.shields.io/badge/Cal.com-000?style=for-the-badge&logo=caldotcom&logoColor=fff)](https://www.cal.com/muhaimin/)
