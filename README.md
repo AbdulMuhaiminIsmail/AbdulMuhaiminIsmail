@@ -102,7 +102,7 @@ Three concurrent LLM agents with shared state — two debate any topic in real t
 
 ## outside the terminal
 
-Chess &nbsp;&nbsp;·&nbsp;&nbsp; CTFs &nbsp;&nbsp;·&nbsp;&nbsp; History &nbsp;&nbsp;·&nbsp;&nbsp; Physics &nbsp;&nbsp;·&nbsp;&nbsp; Philosophy
+Chess &nbsp;&nbsp;·&nbsp;&nbsp; Speedcubing &nbsp;&nbsp;·&nbsp;&nbsp; CTFs &nbsp;&nbsp;·&nbsp;&nbsp; History &nbsp;&nbsp;·&nbsp;&nbsp; Physics &nbsp;&nbsp;·&nbsp;&nbsp; Philosophy
 
 ---
 
