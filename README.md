@@ -2,7 +2,7 @@
 
 ---
 
-1.5+ years building production-grade AI systems used by real clients every day. I build Voice Agents, AI Chatbots, and Multi-Agent Systems that automate workflows, reduce costs, and solve real business problems. From intelligent automation pipelines to fully custom backends built from scratch, I deliver solutions that create measurable impact. I don’t just build prototypes — I ship systems that drive results.
+Building production-grade AI systems used by real clients every day. I build Voice Agents, AI Chatbots, and Multi-Agent Systems that automate workflows, reduce costs, and solve real business problems. From intelligent automation pipelines to fully custom backends built from scratch, I deliver solutions that create measurable impact. I don’t just build prototypes — I ship systems that drive results.
 
 ---
 
