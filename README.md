@@ -23,17 +23,6 @@ Full-stack freelancing marketplace handling the complete job lifecycle — posti
 
 ---
 
-**[RhetAI](https://github.com/AbdulMuhaiminIsmail)** &nbsp;`repo coming soon`
-
-Three concurrent LLM agents with shared state — two debate any topic in real time, a third judge activates at a configurable token threshold to deliver a structured verdict. Demonstrates agent orchestration, turn-based state management, and the LLM-as-evaluator pattern.
-
-[![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff)](#)
-[![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=fff)](#)
-[![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=fff)](#)
-[![Gemini](https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini&logoColor=fff)](#)
-
----
-
 ## tech stack
 
 [![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff)](#)
